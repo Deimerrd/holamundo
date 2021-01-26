@@ -1,2 +1,2 @@
-# holamundo
-aqui se asignaras una breve demosttracion de como se hace un repositorio
+Mi nombre es Deimer Blandon Martinez y declaro hoy que adquirire mucho conocimiento de programacio en java scrvrip php html y css y tambien estudiare este semestre en el cual
+me desempeñare mucho y me curare de toda enfermedad y ayudare a mi familia a salir adelante
